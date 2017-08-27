@@ -1,2 +1,2 @@
-# hackabout-2017
-Philips Hackaobut '17
+# Hackabout 2017
+Code for the Phillips Hackabout 2017 - Round 1
